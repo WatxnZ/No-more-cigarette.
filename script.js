@@ -56,16 +56,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const announcements = [
     {
-      id: "1ประกาศ",
-      imageUrl: "https://img5.pic.in.th/file/secure-sv1/qrcode-.jpeg",
+      id: "1ประกาศ/",
+      imageUrl: "",
       message:
-        "คิวอาร์โค้ดแจ้งปัญหาด้านสุขภาพ ภายในโรงเรียน เช่น ด้านการบริโภค เรื่องสุขภัณฑ์",
+        "",
       messageClass: "important-message",
     },
     {
-      id: "แจ้งปัญหา",
-      imageUrl: "https://img5.pic.in.th/file/secure-sv1/144584.jpg",
-      message: "แจ้งปัญหาต่าง ๆ ด้านสุขภาพอนามัย ภายในโรงเรียน แสกนเลย!",
+      id: "แจ้งปัญห/",
+      imageUrl: "",
+      message: "",
       messageClass: "important-message",
     },
   ];
